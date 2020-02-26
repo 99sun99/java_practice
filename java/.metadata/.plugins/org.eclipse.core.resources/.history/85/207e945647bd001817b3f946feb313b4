@@ -1,0 +1,10 @@
+import org.cadenhead.ecommerce.*;
+package formal;
+
+public class GiftShop {
+
+	public GiftShop() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

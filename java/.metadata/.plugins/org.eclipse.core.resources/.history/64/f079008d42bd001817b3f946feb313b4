@@ -1,0 +1,16 @@
+package formal;
+
+import java.util.*;
+
+public class Item implements Comparable {
+	private String id;
+	private String name;
+	private double retail;
+	private int quantity;
+	private double price;
+
+	Item() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

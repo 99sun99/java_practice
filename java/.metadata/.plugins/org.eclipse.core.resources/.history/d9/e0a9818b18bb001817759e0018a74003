@@ -1,0 +1,14 @@
+package formal;
+
+import java.util.StringTokenizer;
+
+ class test {
+	   
+	    public static void main(String[] arguments) {
+	    	StringTokenizer st1,st2;s
+	    	
+	    	String quotel="GooG 530.80 -9.98";
+	    	
+	    	
+	    }
+	}

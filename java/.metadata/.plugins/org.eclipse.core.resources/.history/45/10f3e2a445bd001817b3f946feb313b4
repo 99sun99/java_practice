@@ -1,0 +1,10 @@
+package formal;
+java.util.*;
+
+public class Storefront {
+
+	public Storefront() {
+		
+	}
+
+}

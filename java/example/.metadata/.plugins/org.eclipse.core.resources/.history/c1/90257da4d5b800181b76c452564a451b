@@ -1,0 +1,11 @@
+package wewe;
+
+public class test {
+
+	public static void main(String[] args) {
+		 VolcanoRbot dante= new VolcanoRobot();
+		
+	        
+	}
+
+}

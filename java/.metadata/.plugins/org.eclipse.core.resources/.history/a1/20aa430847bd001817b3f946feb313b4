@@ -1,0 +1,9 @@
+package formal;
+
+public class GiftShop {
+
+	public GiftShop() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

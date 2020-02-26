@@ -1,0 +1,32 @@
+<rss version="2.0">
+  <channel>
+  <title>SportsFilter</title>
+  <link>http://www.sportsfilter.com/</link>
+  <docs>http://www.rssboard.org/rss-specification</docs>
+  <item>
+    <title>Babe Ruth used steriods?</</title>
+    <link>http://sports.espn.go.com/mlb/news/story?id=1745899</link>
+    <description>Houston Astros second baseman Jeff Kent said the
+steroids controversy is an embarrassment to baseball and that the
+public needs to rethink whether sports heroes of yore abstained
+from illegal performance-enhancing drugs.</description>
+  </item>
+  <item>
+    <title>Phoenix sports fans shells out the bucks</title>
+    <link>http://washpost.com/wp-dyn/articles/A10394-2004Feb26.html</link>
+    <description>Phoenix-area taxpayers have invested $700 million
+in new stadiums for their pro baseball, basketball, football, and
+hockey franchises, a world record for governmental sports support,
+as described in today's Washington Post.</description>
+  </item>
+  <item>
+    <title>Just buy it</title>
+    <link>http://www.nike.com/nikebiz/news/pressrelease.jhtml</link>
+    <description>Marion Jones competing in floor gymnastics, Randy
+Johnson bowling, Lance Armstrong in the boxing ring, Andre Agassi
+fielding 2B for the Red Sox. Nike rolls out their spring campaign
+asking in some rather creatively edited commercial spots starting
+tonight.</description>
+  </item>
+</channel>
+</rss>

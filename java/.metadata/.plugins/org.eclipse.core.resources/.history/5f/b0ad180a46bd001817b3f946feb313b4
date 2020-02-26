@@ -1,0 +1,12 @@
+package formal;
+java.util.*;
+
+
+public class Storefront {
+	private LinkedList catalog=new LinkedList();
+
+	public Storefront() {
+		
+	}
+
+}

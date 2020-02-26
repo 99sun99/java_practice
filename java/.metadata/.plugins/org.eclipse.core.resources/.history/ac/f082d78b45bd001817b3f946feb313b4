@@ -1,0 +1,9 @@
+package formal;
+
+public class Storefront {
+
+	public Storefront() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

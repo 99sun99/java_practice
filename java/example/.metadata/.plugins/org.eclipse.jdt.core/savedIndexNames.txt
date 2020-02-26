@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+E:\exercise\java\21days-v6-source-code\chapter1\.metadata\.plugins\org.eclipse.jdt.core
+1506006340.index
+1550155910.index
+3734191839.index
+724670569.index
+1870522341.index

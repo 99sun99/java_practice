@@ -1,0 +1,14 @@
+import org.cadenhead.ecommerce.*;
+package formal;
+
+public class GiftShop {
+
+	public static void main (String[] arguments)
+{
+	Storefront store = new Storefront();
+	storre.addItem("C01","MUG","9.99","150");
+
+		
+	}
+
+}

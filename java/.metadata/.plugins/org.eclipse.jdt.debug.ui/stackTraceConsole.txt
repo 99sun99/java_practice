@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+	at formal.test.main(test.java:6)

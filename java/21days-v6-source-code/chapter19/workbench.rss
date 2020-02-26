@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Workbench</title>
+    <link>http://www.cadenhead.org/workbench/</link>
+    <description>Programming, publishing, politics, and popes</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Toronto Star: Only 100 Blogs Make Money</title>
+      <link>http://www.cadenhead.org/workbench/news/3132</link>
+      <pubDate>Mon, 26 Feb 2007 11:30:57 -0500</pubDate>
+      <guid isPermaLink="false">tag:cadenhead.org,2007:weblog.3132</guid>
+      <enclosure length="2498623" type="audio/mpeg"
+          url="http://mp3.cadenhead.org/3132.mp3" />
+    </item>
+    <item>
+      <title>Eliot Spitzer Files UDRP to Take EliotSpitzer.Com</title>
+      <link>http://www.cadenhead.org/workbench/news/3130</link>
+      <pubDate>Thu, 22 Feb 2007 18:02:53 -0500</pubDate>
+      <guid isPermaLink="false">tag:cadenhead.org,2007:weblog.3130</guid>
+    </item>
+    <item>
+      <title>Fuzzy Zoeller Sues Over Libelous Wikipedia Page</title>
+      <link>http://www.cadenhead.org/workbench/news/3129</link>
+      <pubDate>Thu, 22 Feb 2007 13:48:45 -0500</pubDate>
+      <guid isPermaLink="false">tag:cadenhead.org,2007:weblog.3129</guid>
+    </item>
+  </channel>
+</rss>

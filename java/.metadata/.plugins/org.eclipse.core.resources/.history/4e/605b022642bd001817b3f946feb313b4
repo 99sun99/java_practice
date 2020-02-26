@@ -1,0 +1,13 @@
+package formal;
+
+import java.util.*;
+
+public class Item implements Comparable {
+	private String id;
+	private String name;
+
+	public Item() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
